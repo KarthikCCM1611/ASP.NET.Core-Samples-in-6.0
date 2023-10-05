@@ -1,6 +1,5 @@
 # ASP.NET.Core-Samples-in-6.0
-ASP.NET.Core Samples in .NET 6.0
-In the above sample includes below Pages.
+In this ASP.NET.Core .NET 6.0 Sample includes below Pages.
 
 1) Basic example of a calculator.
 2) Todo List with add, edit, delete, update, search and delete all items functionality. Moreover, the application ensures that the current items are saved to file which is in the server location. When closing or refreshing the browser, this data is then seamlessly restored when you revisit the website.
